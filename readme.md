@@ -1,6 +1,6 @@
 Receive milight codes using an Arduino
 ----------------------------------------
-More information at http//github.com/pigetArduino/milightONOFF   
+More information at http://github.com/pigetArduino/milightONOFF   
 
 # Components
 * 1 Arduino nano : 2.50€	   
